@@ -1,3 +1,7 @@
+The above is the source code for the Tic Tac Toe Game.
+You need to install Nodejs and packages to see the website running.
+Enjoy the Game.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
